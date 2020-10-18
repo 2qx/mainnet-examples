@@ -1,0 +1,11 @@
+{
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/2qx/mainnet-php.git"
+    }
+  ],
+  "require": {
+    "2qx/mainnet": "*@dev"
+  }
+}
